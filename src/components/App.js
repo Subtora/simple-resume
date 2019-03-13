@@ -63,10 +63,8 @@ class App extends Component {
               </h3>
               <p className="summary">
                 Oversaw both sales floor operations and backroom functions.
-                Executing marketing-oriented customer service through selling
-                item accessories and protection plans. Manager of all new
-                tranees within the electronics department and several other
-                areas.
+                Manager of all new tranees within the electronics department and
+                several other areas.
               </p>
             </div>
             <div className="jobs">
