@@ -26,7 +26,7 @@ class Projects extends Component {
                 A website-resume for displaying relevent projects I have done
                 and my educational standing.
               </p>
-              <hr className="rule" />
+              <div className="rule" />
             </div>
             <div className="project-nodes">
               <h2 className="title">
@@ -34,7 +34,6 @@ class Projects extends Component {
                 <a href="https://whentowakeup.com" target="_blank">
                   whentowakeup.com
                 </a>
-                <span className="in-progress">in progress</span>
               </h2>
               <div className="horizontal-list">
                 <span className="languages">HTML</span>
@@ -47,7 +46,7 @@ class Projects extends Component {
                 A visually pleasing sleep-cycle calculator that displays several
                 optimal times that you should wake up to feel rested.
               </p>
-              <hr className="rule" />
+              <div className="rule" />
             </div>
             <div className="project-nodes">
               <h2 className="title">

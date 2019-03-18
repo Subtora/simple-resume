@@ -16,13 +16,13 @@ class App extends Component {
     return (
       <section className="body">
         <Top />
-        <hr className="rule" />
+        <div className="rule" />
         <Education />
-        <hr className="rule" />
+        <div className="rule" />
         <Experience />
-        <hr className="rule" />
+        <div className="rule" />
         <Projects />
-        <hr className="rule" />
+        <div className="rule" />
       </section>
     );
   }

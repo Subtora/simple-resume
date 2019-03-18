@@ -20,8 +20,9 @@ h3 {
   font-weight: normal;
   opacity: 0.5;
 }
-hr {
-  border: 2px solid #e4e4e4;
+.rule {
+  height: 0;
+  border-bottom: 1.99px solid #e0e0e0; // weird thickness bug when width is 2px
 }
 .right {
   margin-left: 20%;
