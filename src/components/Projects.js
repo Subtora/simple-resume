@@ -69,6 +69,29 @@ class Projects extends Component {
                 A simple remake of Conway's Game of life using React.
               </p>
             </div>
+            <div className="rule" />
+            <div className="project-nodes">
+              <h2 className="title">
+                Crypto Price Tracker -
+                <a
+                  href="https://subtora.github.io/crypto-price-tracker/"
+                  target="_blank"
+                >
+                  subtora.github.io/crypto-price-tracker/
+                </a>
+              </h2>
+              <div className="horizontal-list">
+                <span className="languages">HTML</span>
+                <span className="languages">Scss</span>
+                <span className="languages">Javascript</span>
+                <span className="languages">React.js</span>
+                <span className="languages">Webpack</span>
+              </div>
+              <p className="description">
+                A web app that uses CryptoCompare's API to return common crypto
+                prices.
+              </p>
+            </div>
           </div>
         </div>
       </section>

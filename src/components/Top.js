@@ -5,7 +5,7 @@ class Top extends Component {
     return (
       <header className="top">
         <h1 className="name">Trevor J Smith</h1>
-        <p className="contact right">
+        <p className="contact">
           Centerville, UT 84014 <br />
           (801) 882-5018 <br />
           trevorsmith4@mail.weber.edu
